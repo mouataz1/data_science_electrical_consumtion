@@ -1,0 +1,10 @@
+========================== MEMBREs DE L'EQIPE =========================
+Hakkou Mouataz
+Ouzzine Othmane
+Zaynab EL Moudni
+Hajar Bouzid
+
+
+========================= REPO GITHUB ================================
+
+https://github.com/mouataz1/data_science_electrical_consumtion
